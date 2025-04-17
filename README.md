@@ -1,0 +1,1 @@
+# hashage_ruby
